@@ -9,7 +9,7 @@ The String to Text Converter is a simple online tool that allows you to convert 
 
 ## Usage 🚀
 
-1. Open the [String to Text Converter]() in your web browser.
+1. Open the [String to Text Converter](https://string-to-text.vercel.app/) in your web browser.
 2. Enter the desired string into the input textarea.
 3. The formatted text will appear in a code block below, with syntax highlighting applied.
 4. Click the "Copy" button to copy the formatted text to your clipboard.
@@ -27,7 +27,7 @@ The String to Text Converter is a simple online tool that allows you to convert 
 
 ## Installation ⚙️
 
-There's no installation required for this tool. You can use it directly by visiting the [String to Text Converter]() website.
+There's no installation required for this tool. You can use it directly by visiting the [String to Text Converter](https://string-to-text.vercel.app/) website.
 
 ## License 📝
 
