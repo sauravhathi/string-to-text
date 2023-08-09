@@ -31,7 +31,7 @@ There's no installation required for this tool. You can use it directly by visit
 
 ## License 📝
 
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. For details, see the [LICENSE](https://github.com/sauravhathi/string-to-text/blob/master/LICENSE) file.
 
 ## Acknowledgements 🙌
 
